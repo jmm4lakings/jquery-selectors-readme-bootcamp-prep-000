@@ -10,7 +10,7 @@
    return $("#baby-ninja")
  }
  
- function divSelctor() {
+ function divSeelector() {
    return $(".pics")
  }
  
