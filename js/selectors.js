@@ -1,1 +1,2 @@
-Function 
+Function $('#baby-ninja')
+return 
