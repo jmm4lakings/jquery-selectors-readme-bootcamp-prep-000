@@ -4,5 +4,3 @@ describe('Selectors',function() {
   
   beforeEach(function() {
     
-  }
-}
