@@ -1,2 +1,2 @@
 Function $('#baby-ninja')
-return 
+return $('#baby-ninja')
